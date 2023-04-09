@@ -1,0 +1,29 @@
+.cart-item{
+    width: 70%;
+    display: inline-flex;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+    background-color: #FCFBFB;
+    margin-left: 15%;
+    gap: 20px;
+    box-shadow: 10px 10px;
+    margin-bottom: 2%;
+}
+.cart-bottom{
+    width: 20%;
+    margin-left: 65%;
+    align-items: center;
+    justify-content: center;
+}
+.cart-img{
+    height: 80%;
+    width: auto;
+    margin: 1%;
+}
+.item-title{
+    font-size: large;
+}
+.cart-info{
+    margin-top: 30px;
+}
